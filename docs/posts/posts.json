@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2023-07-26-just-testing/",
+    "title": "Just testing",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nim",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-07-26",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nThis is where I will list my cool projects.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-07-26T10:20:56+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-07-26",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-07-26T09:54:44+08:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Butt trips\n",
+      "author": [
+        {
+          "name": {},
+          "url": {}
+        }
+      ],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-07-26T10:21:24+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-07-26T10:21:24+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

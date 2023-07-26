@@ -1,0 +1,16 @@
+---
+title: "About this blog"
+description: | 
+  Butt trips
+author:
+  - first_name: "NLWS"
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
