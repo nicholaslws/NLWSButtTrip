@@ -1,0 +1,39 @@
+---
+title: "First Anniversary Repost"
+description: |
+  This is a repost of my first butterfly anniversary summary. I originally posted it on Facebook but have decided to keep it here.
+author:
+  - name: Nicholas
+    url: {}
+date: 2023-09-05
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Originally posted on Facebook on 5 Oct 2021.
+
+Been butterflying for exactly a year now and recording most of it on scythebill. The records for the first two months were only based on photos but non photographed sightings were included later in most trips. So here's my progress.
+Total species: 194\
+Breakdown of families (Using an older checklist)\
+Papilionidae: 13/18\
+Pieridae: 13/23\
+Nymphalidae: 67/101 +1 ssp for jacintha eggfly\
+Riodinidae: 3/5\
+Lycanidae: 64/113\
+Hesperiidae: 34/77\
+Some highlights\
+Very rares (based on Khew, 2015. Some have probably changed status by now): Malayan jester, silver royal, banded royal, malay staff sergeant, yellow chequered lancer, white tipped baron, angled castor.\
+Most species in a trip: 51 species from Pulau Ubin on 27 August 2021 with two lifers (angled castor and dark cerulean).\
+Latest lifer: Banded lineblue\
+Thanks buttfriends\
+
+![This graph shows the number of lifers accumalated over the trips](img/Year1_1.jpg)
+
+
+
+![Similar to the above but in days instead.](img/Year1_2.jpg)
+
+
+
+
