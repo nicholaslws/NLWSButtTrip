@@ -1,7 +1,7 @@
 ---
 title: "Third anniversary update"
 description: |
-  A short description of the post.
+  Third anniversary update with graphs!
 author:
   - name: Nicholas
     url: {}
