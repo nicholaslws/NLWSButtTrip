@@ -11,14 +11,14 @@
         }
       ],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-12T14:56:16+08:00"
+      "last_modified": "2024-02-12T14:59:24+08:00"
     },
     {
       "path": "index.html",
       "title": "My Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-12T14:56:17+08:00"
+      "last_modified": "2024-02-12T14:59:25+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
