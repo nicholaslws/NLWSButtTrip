@@ -11,7 +11,7 @@ output:
     toc: true
     toc_float: true
     toc_depth: 3
-preview: img/idea.jpg
+preview: img/idea.JPG
 ---
 
 
@@ -40,29 +40,29 @@ In terms of butterflying, the forest was very quiet with some Clippers, a Comman
 
 After the guided walk, I had some time to explore the area near the entrance and village which was decent. The endemic *Eurema cf. ormistoni* and *Celaenorrhinus spilothyrus* were both shot there. Other butterflies include the  Angled Pierrot (*Caleta decida*) and the White Four Ring (*Ypthima ceylonica*). 
 
-![Celaenorrhinus spilothyrus, the Sri Lankan Black Flat was spotted along the path to the park entrance.](img/flat.jpg?display=inline-block) 
+![Celaenorrhinus spilothyrus, the Sri Lankan Black Flat was spotted along the path to the park entrance.](img/flat.JPG) 
 
 The next morning, we went for a guided walk around the village for birds and managed to get a few endemics. But the main site of interest was the accommodations which had a flowering Elaeocarpus sp. It attracted many Common Jezebels (*Delias eucharis*) and two endemic Ceylon Tree Nymphs (*Idea iasonia*). The rest of the gardens attracted some tigers (*Ideopsis* and *Parantica*) as well as the Blue Mormon (now a subsp. of *Papilio agenor*). 
 
-![A Ceylon Tree nymph resting! One of my targets.](img/idea.jpg) 
+![A Ceylon Tree nymph resting! One of my targets.](img/idea.JPG) 
 
 ### Yala National Park Block 1
 We did a full-day safari at Yala Block 1 to maximise our chances of seeing a Leopard. It costed us ~150USD for the tour and another 30USD for the entrance fee. For the full day safari, it runs from about 5am - 6pm. 12-2pm is a no move time where the drivers are not allowed to move. Unfortunately, our Hilux got stuck at 11am and another vehicle could only help to pull us out at ~3pm. This gave me around some time to walk near the vehicle to look for butterflies which happened to be the most butterfly productive part of the day. The Pieridids were puddling around the trail, consisting of *Appias sp* (unsure if they were *albina* or the endemic *galene*), *Ixias* and *Euremas* etc. Highlights were the Monkey Puzzle (*Rathinda amor*), Small Salmon Arab (*Colotis amata*), White Orange Tip (*Ixias marianne*) and a Dark Wanderer (*Pareronia ceylanica*).  None of these are supposed to be rare but they were all lifers for me. The Crimson  (*Pachliopta hector*) was also common along the trails. Once we were rescued, the focus was again on birds.
 
-![The Monkey Puzzle! A very interesting lookign Theclinae.](img/mpuzzle.jpg) 
+![The Monkey Puzzle! A very interesting lookign Theclinae.](img/mpuzzle.JPG) 
 
-![Crimson Rose. A common butterfly seen many times flying along the trails in Yala NP and even 1km out over the ocean.](img/crose.jpg) 
+![Crimson Rose. A common butterfly seen many times flying along the trails in Yala NP and even 1km out over the ocean.](img/crose.JPG) 
 
 Oh and a leopard right before closing time. It was a mad rush getting to the location and out of the park by 6pm.
 
-![Leopard.](img/leo.jpg) 
+![Leopard.](img/leo.JPG) 
 
 ### Nuwara Eliya
 The main site was Horton Plains National Park (~2100m ASL). The 30USD entrance fee was worth it for the views and landscape alone. We did the standard loop around World's End trail which took a few hours. The butterfly diversity was expectedly low but I managed to get the endemic Ceylon Tiger (*Parantica taprobana*) and a suspected *Lethe cf. daretis*. The Lethe was a bit too worn though. The other butterflies were not very confiding. 
 
-![The endemic Ceylon Tiger. Seems to be restricted to the highlands.](img/tig.jpg) 
+![The endemic Ceylon Tiger. Seems to be restricted to the highlands.](img/tig.JPG) 
 
-![The worn Lethe that I think is a daretis.](img/lethe.jpg) 
+![The worn Lethe that I think is a daretis.](img/lethe.JPG) 
 
 ### Overall
 The butterfly diversity on this trip was not very high at all with around 55 species over 10 days. At least I managed to get a few of my targets and endemics such as the Ceylon Tree Nymph and Monkey Puzzle. But overall, it was a pretty enjoyable trip. It was not a very cheap place though. 
