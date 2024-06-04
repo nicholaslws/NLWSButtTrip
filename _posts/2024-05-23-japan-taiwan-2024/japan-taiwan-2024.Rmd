@@ -111,7 +111,7 @@ The weather during the trip was not great and most of the butterflies only appea
 
 ![The book!](img/book.jpeg)
 
-![At least I saw a Tanuki in Enoshima.](img/tanu.jpg)
+![At least I saw a Tanuki in Enoshima. かわいい！](img/tanu.jpg)
 
 ## Taiwan May 2024 Butterfly trip report
 
@@ -313,7 +313,7 @@ Taiwan was really easy to get around with convenient public transport even to th
 Butterfly abundance and diversity was more disappointing this trip with only about 70 species over the five days and many of the species were only seen once to twice. The diversity of Papilionids and Lycaenids seen were lower than expected.
 
 #### Other stuff & Cost breakdown    
-List of stuff I brought for the trip
+List of stuff I brought for the trip\   
 Gear:\
 - Canon R7\
 - Sigma 150mm f2.8 macro (Only used this for the Satyrium)\
