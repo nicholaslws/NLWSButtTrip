@@ -1,0 +1,59 @@
+---
+title: "Half-day trip to Gunung Pulai"
+description: |
+  A casual half-day trip to Gunung Pulai, Johor, Malaysia.
+author:
+  - name: Nicholas
+date: 2024-06-19
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_float: true
+    toc_depth: 3
+preview: img/saty.jpg
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(XML)
+library(leaflet)
+library(here)
+library(tidyverse)
+library("kableExtra")
+```
+
+## trip report
+
+###  Overview
+
+Gunung Pulai is a small hill (~600m) in the south of Johor. It is an hour's drive from the Second Link, making it quite a convenient day-trip from Singapore. It is quite like a taller Bukit Timah and seems like a popular destination for locals as well. This was my second trip to this location; My first trip did not have anything special other than the Smaller Wood Nymphs (*Ideopsis gaura*) which I initially thought were Tree Nymphs. 
+
+For this casual trip, I tagged along with my family who wanted to climb this hill for fun. Hence I did not really have much time to stop and wait for butterflies. 
+
+### Gunung Pulai Trip
+Weather: Slightly overcast in the morning, sunny in the afternoon\ 
+
+Set off at 6.20am via second link. Arrived at 8am. entrance and parking cost 4rm. Rained very heavily the night before, still dark and cloudy.
+Strict check at the entrance (~70m)
+Veyr quiet at the start. Around 40 mins in ( ~300m), saw a shiny blue butterfly with a spot of yellow dart out of the surrounding vegeatation and puddle along the wet drains. Tried to chase but it was very skittish and did not stay at any spot for long. A choaspes! stigmata?
+
+Rest of the way up was uneventful. Cannot even go to the summit becuase there is a protected area there.
+By the time we finished climbing the hill, weather had progressively cleared up and quite sunny. Smaller wood nymphs and crows at the summit.
+After a short break, we made our way down which was more happening. 
+Along the way, Malay yeoman? , euthalia and lexias. 
+A flowering tree was fruitful. Maplet, pyroneura, banded yeoman, mystery blue. 
+Mae way down. TOtal time spent about 4.5 hours
+
+
+#### Other stuff & Cost breakdown    
+
+List of stuff I brought for the trip\   
+Gear:\
+- Canon R7\
+- Canon 100-400 f/4.5-5.6L II\
+- Canon Speedlite 600EX\
+- Garmin GPSMAP 65s\
+
+
