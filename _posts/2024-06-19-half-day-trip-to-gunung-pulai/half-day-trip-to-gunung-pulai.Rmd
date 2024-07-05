@@ -61,7 +61,7 @@ df_merge<-bind_rows(df1,df2)
 #echo=FALSE, results='hide',fig.show='hide' to hide code, results and plot respectively
 ```
 
-## trip report
+## Gunung Pulai trip report
 
 ###  Overview
 
