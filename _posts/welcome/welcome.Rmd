@@ -16,6 +16,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Welcome to my new blog about casual butterfly trips and other related things. Really rusty with R now and unfamiliar with these packages but hopefully it is still helpful. 
 
-What does NLWS stand for? North, Lest, West, South.  
 
 
